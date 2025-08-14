@@ -1,3 +1,4 @@
+![Zrzut ekranu aplikacji]https://github.com/Gerkus20123/Interview-Task/blob/aeb3fd56d49f9fc4b16206b53160f25faa638a08/Aplikacja.png)
 
 ------------------------------------------------------- OPIS -----------------------------------------------------------------
 
@@ -56,3 +57,4 @@ II. FRONTEND
 6. frontend/app/globals.css style co do interfejsu ShadCN UI
 7. frontend/components/ui komponenty co do interfejsu ShadCN UI (button, input, textarea, table, dialog, card).
 8. frontend się uruchumia w PS C:\Users\"User_name"\Desktop\interviewTask\frontend> za pomocą komendy npm run dev (używałem Visual Studio Code gdzie uruchumiałem frontend)
+
