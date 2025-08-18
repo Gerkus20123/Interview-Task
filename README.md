@@ -10,7 +10,7 @@ Projekt ma obecnie znany problem z migracją i seedingiem bazy danych, który wy
 
 Jeśli aplikacja się od razu nie ładuje i widać komunikat - "Wiadomości się ładują, proszę poczekać ..." to należy kliknąć na "Refresh" w przeglądarce.
 
---------------------------------------------- CO ZOSTAŁÓ ZREALIZOWANE --------------------------------------------------------
+--------------------------------------------- CO ZOSTAŁÓ ZREALIZOWANE --------------------------------------------------
 
 ----------------------------------------------------- Krótko -----------------------------------------------------------------
 
@@ -57,5 +57,6 @@ II. FRONTEND
 6. frontend/app/globals.css style co do interfejsu ShadCN UI
 7. frontend/components/ui komponenty co do interfejsu ShadCN UI (button, input, textarea, table, dialog, card).
 8. frontend się uruchumia w PS C:\Users\"User_name"\Desktop\interviewTask\frontend> za pomocą komendy npm run dev (używałem Visual Studio Code gdzie uruchumiałem frontend)
+
 
 
