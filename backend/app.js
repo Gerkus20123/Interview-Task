@@ -4,6 +4,7 @@ import bodyParser from 'body-parser';
 import cors from 'cors';
 import { Sequelize } from 'sequelize';
 import Wiadomosc from './models/message.js';
+import cors from 'cors';
 
 const app = express();
 const port = 8080;
