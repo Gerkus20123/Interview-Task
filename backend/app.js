@@ -4,7 +4,6 @@ import bodyParser from 'body-parser';
 import cors from 'cors';
 import { Sequelize } from 'sequelize';
 import Wiadomosc from './models/message.js';
-import cors from 'cors';
 
 const app = express();
 const port = 8080;
@@ -119,4 +118,5 @@ const connectWithRetry = async (retries = 5, delayMs = 5000) => {
     console.error('Nie udało się połączyć z bazą danych. Serwer nie został uruchomiony.');
     process.exit(1);
   }
+
 })();
